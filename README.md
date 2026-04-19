@@ -1,9 +1,5 @@
 <img width="100%" height = "100%" src="./banner/Github Banner.png" alt="Hi, I'm Deepak" />
 
-## Resume
-[![MyResume](https://img.shields.io/badge/Resume-ef4444?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1MOtcf2kmmCTGppJ98cGLMkclc1xSLgbl/view?usp=drive_link)
-
-
 ## Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/deepakanonymous75)
@@ -41,15 +37,15 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaks-github&show_icons=true&locale=en&layout=compact" alt="deepaks-github" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepakDevelops&show_icons=true&locale=en&layout=compact" alt="DeepakDevelops" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepaks-github&show_icons=true&locale=en" alt="deepaks-github" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepakDevelops&show_icons=true&locale=en" alt="DeepakDevelops" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaks-github&" alt="deepaks-github" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakDevelops&" alt="DeepakDevelops" /></p>
 
 <div align="right">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepaks-github&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepakDevelops&theme=react-dark)
